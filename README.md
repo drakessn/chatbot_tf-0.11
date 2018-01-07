@@ -4,7 +4,7 @@
 
 #### Overview
 
-The code here implements the Dual LSTM Encoder model from [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909).
+This is an adaptation of [Retrieval-Based Conversational Model](https://github.com/dennybritz/chatbot-retrieval/) for tensorflow 0.11. The code here implements the Dual LSTM Encoder model from [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909).
 
 #### Setup
 
